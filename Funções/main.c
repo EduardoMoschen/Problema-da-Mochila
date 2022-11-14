@@ -11,18 +11,23 @@ int main(){
     imprimirDados(dados);
 
     /* Solução força bruta */
+    printf("\n");
     forcaBruta(&dados);
 
     /* Solução menor peso */
+    printf("\n");
     solucaoMelhorPeso(dados);
 
     /* Solução melhor benefício */
+    printf("\n");
     solucaoMelhorBeneficio(dados);
 
     /* Solução melhor custo benefício */
+    printf("\n");
     solucaoCustoBeneficio(dados);
 
     /* Solução Aleatória */
+    printf("\n");
     solucaoAleatoria(&dados, 5000);
 
     liberacaoMemoria(&dados);
