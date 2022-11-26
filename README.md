@@ -10,7 +10,7 @@ Abaixo contém quais são os cinco tipos diferentes de abordagens usadas:
 
     • Escolha aleatória com várias partidas;
     • Heurística de maior benefício, começando pelo maior benefício;
-    • Heurística de menor peso, começando pelo menos peso;
+    • Heurística de menor peso, começando pelo menor peso;
     • Heurística de melhor relação peso benefício, começando pela melhor relação peso benefício;
     • Força bruta.
 
